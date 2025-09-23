@@ -6,6 +6,6 @@
 
 
 ## What can we do:
-- read a packet file, disect packets within, build our own packets ✅
-- scan a list of ports, check for open ports + print results ✅
-- scan & discover domains & ips using dns request + reverse dns requests ✅
+- `packet_reader.py` -> read a packet file, disect packets within, build our own packets ✅
+- `port_scan.py` -> scan a list of ports, check for open ports + print results ✅
+- `dns_exploration.py` -> scan & discover domains & ips using dns request + reverse dns requests ✅
