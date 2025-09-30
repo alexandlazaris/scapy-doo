@@ -1,0 +1,3 @@
+admin pass
+admin admin
+user1 Password!123
