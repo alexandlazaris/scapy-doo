@@ -14,3 +14,7 @@
 ### Data sources
 
 - Wireshark sample packets: https://wiki.wireshark.org/samplecaptures#sample-captures
+
+## Tools used
+
+- [Orbstack](https://orbstack.dev/): whip up lightweight virtual Linux machines to test out scripts or run ssh connections
