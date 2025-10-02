@@ -12,6 +12,7 @@
 - `port_scan.py` -> scan a list of ports, check for open ports + print results ✅
 - `dns_exploration.py` -> scan & discover domains & ips using dns request + reverse dns requests ✅
 - `check_default_credentials.py` -> brute force logins using a predefined list of username + password combos against ssh & telnet servers running on localhost ✅
+- use `pyinstaller` to package malicious python scripts as executables, targeting the Autorun feature of older Windows versions ✅
 
 
 ## Data sources
